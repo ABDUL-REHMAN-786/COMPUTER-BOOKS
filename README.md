@@ -1,5 +1,27 @@
-# COMPUTER-BOOKS
-https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc
-https://www.kaggle.com/code/prashant111/comprehensive-data-analysis-with-pandas
-https://realpython.com/pandas-project-gradebook/
-https://www.youtube.com/playlist?list=PLj5pwj8JzJ10U_jG1BwfgPO8pf1LywfDt
+# MEAN Stack Classes for Beginners - Tutorial
+
+Its a tutorial for MEAN Stack classes.
+Each class has a README.md file with the class description.
+
+## Suggested Extensions for VSCode
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
+- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
+- [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+
+---
+
+Books and Resources for the course:
+
+- [HTML AND CSS Book](https://drive.google.com/file/d/1sqBCqMaBSvRHlB01bW13KbdPjAZjZnri/view?usp=share_link)
+- W3Schools - [HTML](https://www.w3schools.com/html/)
+- Code Academy - [HTML](https://www.codecademy.com/learn/learn-html)
+
+---
+
+Made with ❤️ By [Muzammil Bilwani](https://muzammilbilwani.com)
