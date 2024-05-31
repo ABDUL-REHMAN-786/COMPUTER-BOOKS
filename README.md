@@ -27,3 +27,4 @@ Books and Resources for the course:
 Made with ❤️ By [Muzammil Bilwani](https://muzammilbilwani.com)
 
 https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html
+https://iuisl.iqra.edu.pk/bscs-catalog/
